@@ -1,0 +1,5 @@
+.eslintcache
+**/app/public
+node_modules
+logs
+**/app/assets

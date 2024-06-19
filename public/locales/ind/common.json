@@ -1,0 +1,173 @@
+{
+	"title": "Contoh sederhana",
+	"subtitle": "Ini halaman kosong. Mulai buat halaman Anda dari sini.",
+	"error_with_status": "Terjadi kesalahan di server",
+	"404": "Halaman ini tidak dapat ditemukan.",
+	"404_subtitle": "Anda bisa tinggal dan bersantai di sini, atau kembali ke awal.",
+	"back": "kembali ke beranda",
+	"error_without_status": "Terjadi kesalahan di server",
+	"contact_title": "Kutipan Proyek Gratis",
+	"contact_subtitle": "Apakah Anda memiliki pertanyaan? Apakah Anda siap untuk mengurangi biaya dan membuat pendapatan baru? Atau Anda hanya ingin menyapa? Kirim pesan kepada kami.",
+	"form_name": "Siapa nama Anda? *",
+	"form_email": "Apa itu email Anda? *",
+	"form_phone": "Berapa nomor telepon Anda?",
+	"form_company": "Apa perusahaan Anda?",
+	"form_message": "Tulis pesan Anda di sini",
+	"form_terms": "Saya telah membaca dan menerima Ketentuan",
+	"form_privacy": "Layanan & Kebijakan Privasi *",
+	"form_send": "Kirim Pesan",
+	"accept": "Setuju",
+	"eng": "English",
+	"deu": "Deutsch",
+	"zho": "简体中文",
+	"prt": "󠁥󠁮󠁧󠁿Português",
+	"ind": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
+	"ara": "󠁥󠁮󠁧󠁿العربيّة",
+	"notif_msg": "Ini adalah contoh pesan yang biasa digunakan untuk informasi penting kepada pengunjung atau pengguna. Silahkan klik tombol disamping untuk menutup pesan ini.",
+	"agency-landing": {
+		"header_about": "tentang",
+		"header_services": "layanan",
+		"header_our-expertise": "keahlian kami",
+		"header_testimonials": "testimoni",
+		"header_case-studies": "studi kasus",
+		"header_our_office": "kantor kame",
+		"header_contact": "kontak",
+		"header_language": "bahasa",
+		"header_theme": "mode tema",
+		"header_dark": "gelap",
+		"header_light": "terang",
+		"banner_title": "Buat Solusi Bisnis",
+		"banner_subtitle": "Kami bekerja dengan startup internasional, membantu wirausahawan meluncurkan untuk jangka panjang.",
+		"banner_button": "menulis kepada kami",
+		"about_title": "Tentang kami",
+		"about_subtitle": "Melalui kapasitas besar kami, kami berani mengatakan bahwa kami berbeda.",
+		"about_para_one": "Selamat datang di Gitlime, penyedia layanan pengembangan aplikasi web dan situs web terkemuka. Kami Mengembangkan produk berbasis hasil untuk pengusaha, pemula, dan perusahaan dengan perusahaan pengembangan perangkat lunak terkemuka.",
+		"about_para_two": "Di Gitlime, dengan fokus untuk memahami tujuan Anda dan memanfaatkan teknologi terkini, kami memberikan hasil yang luar biasa untuk berbagai industri. Percayakan kepada kami untuk mendampingi Anda di setiap langkah perjalanan transformasi digital Anda. Tim kami bekerja keras untuk membantu Anda mengumpulkan ide untuk memulai aspek pengembangan proyek yang sedang Anda kerjakan. Untuk membuat aplikasi Anda lebih teratur dan sesuai untuk memberi Anda kemampuan untuk tetap menggunakan Gitlime",
+		"about_para_three": "Tim pengembang dan insinyur terampil kami berdedikasi untuk menciptakan solusi inovatif yang memenuhi kebutuhan unik Anda dan mendorong kesuksesan bisnis. Kami memberikan yang terbaik agar pengguna mendapatkan hasil terbaik. Bangun milik Anda, ciptakan masa depan yang lebih baik hari ini. Bangun aplikasi dengan kecepatan luar biasa dan kinerja luar biasa dalam waktu singkat. Pengembangan aplikasi bukanlah kemewahan. Ini adalah alat untuk sukses yang akan mengarahkan Anda ke Gitlime.",
+		"about_employee": "karyawan",
+		"about_projects": "proyek",
+		"about_client": "klien",
+		"about_quote": "Meninggalkan rasa yang pahit. Itu disebut blues",
+		"services_title": "Layanan Kami",
+		"services_button": "lihat detail",
+		"expertise_title": "Keahlian Kami",
+		"expertise_subtitle": "Proyek yang sukses dibangun dengan tim yang sukses.",
+		"expertise_paragraph": "Itulah sebabnya kami memberi Anda sumber daya manusia yang Anda butuhkan untuk membangun kapan pun Anda membutuhkannya. Tim kami yang berada di dekat & dekat kantor kami dilatih dan diawasi sebagai bagian dari Kami. Tim Anda didedikasikan untuk proyek Anda. Dan tim fleksibel! ",
+		"testimonial_title": "testimonial klien",
+		"case_title": "Studi kasus",
+		"cta_title": "Siap memulai?",
+		"cta_subtitle": "Tim Teknologi Terbaik tidak terlahir instan, mereka dibuat ...",
+		"cta_btn": "hubungi kami",
+		"office_title": "Kantor Kami",
+		"office_head": "Kantor Pusat",
+		"office_branch": "Kantor Cabang",
+		"footer_paragraph": "Kami telah menjalankan bisnis selama hampir satu dekade. Membantu Anda adalah prioritas utama kami.",
+		"terms_conditions_title": "Syarat & Ketentuan Gitlime",
+		"terms_conditions_greet": "Welcome to the Gitlime website(the 'site').",
+		"terms_conditions_para": "By accessing or using the Site or any services provided on the Site, you agree to be bound by the following terms and conditions(the 'terms'). If you do not agree to these Terms, you may not access or use the Site or any services provided on the Site.",
+		"carouselItems": [
+			{
+				"id": 1,
+				"title": "Mengubah ide menjadi solusi digital",
+				"desc": "Izinkan kami membantu mewujudkan visi Anda dengan pengembangan perangkat lunak ahli.",
+				"img": "imgApi.carousel[4]"
+			},
+			{
+				"id": 2,
+				"title": "Mewujudkan impian teknologi Anda",
+				"desc": "Kami memberikan solusi khusus yang memenuhi kebutuhan unik Anda dan memajukan bisnis Anda",
+				"img": "imgApi.carousel[0]"
+			},
+			{
+				"id": 3,
+				"title": "Menciptakan Teknologi Mutakhir",
+				"desc": "Ubah cara Anda berbisnis dengan perangkat lunak khusus yang dirancang untuk memenuhi kebutuhan unik Anda.",
+				"img": "imgApi.carousel[1]"
+			},
+			{
+				"id": 4,
+				"title": "Perangkat lunak inovatif, kemungkinan tak terbatas",
+				"desc": "Bergabunglah dengan kami saat kami memimpin dalam pengembangan solusi perangkat lunak mutakhir",
+				"img": "imgApi.carousel[3]"
+			}
+		],
+		"servicesList": [
+			{
+				"title": "Merek",
+				"desc": "Apa hal-hal yang kita kuasai? film, periklanan, fotografi, produksi video streaming langsung, strategi merek visual, dan desain komunikasi, untuk beberapa nama.",
+				"img": "imgApi.agency[0]",
+				"btnLink": "/branding"
+			},
+			{
+				"title": "Desain UI/UX",
+				"desc": "Nyalakan identitas online Anda dengan aset digital landasan. Bangun kehadiran Anda dengan desain dan fungsionalitas yang luar biasa",
+				"img": "imgApi.agency[1]",
+				"btnLink": "/uxdesign"
+			},
+			{
+				"title": "Pemasaran Digital dan Konten",
+				"desc": "Pakar pemasaran digital kami menawarkan layanan pemasaran digital yang kompetitif & berkualitas yang memberikan konversi melalui SEO, SMO, SEM & reputasi online.",
+				"img": "imgApi.agency[2]",
+				"btnLink": "/digitalmarketing"
+			},
+			{
+				"title": "Pengembangan situs web",
+				"desc": "Kami menyediakan pengembangan terbaik dari aplikasi web kaya fitur yang melampaui hal-hal penting dan bekerja di berbagai perangkat.",
+				"img": "imgApi.agency[3]",
+				"btnLink": "/websitedevelopment"
+			},
+			{
+				"title": "Penerapan & Pemeliharaan Aplikasi",
+				"desc": "Sebuah proses penerapan aplikasi tipikal terdiri dari beberapa fase utama. Pendekatan intuitif untuk menyelesaikan langkah-langkah ini secara tersinkronisasi menentukan potensi keberhasilan penerapan.",
+				"img": "imgApi.agency[4]",
+				"btnLink": "/applicationdeployment"
+			},
+			{
+				"title": "Desain & Pengembangan Produk",
+				"desc": "Kembangkan produk yang digerakkan oleh hasil untuk pengusaha, pemula, dan perusahaan dengan perusahaan pengembang perangkat lunak terkemuka.",
+				"img": "imgApi.agency[5]",
+				"btnLink": "/productdesign"
+			},
+			{
+				"title": "Pengembangan ERP",
+				"desc": "Setiap perusahaan perlu mengembangkan model bisnis baru untuk menghindari gangguan, mendapatkan efisiensi untuk mendanai inovasi, dan mentransformasikan sistem mission-critical tanpa risiko bisnis.",
+				"img": "imgApi.agency[6]",
+				"btnLink": "/erpdevelopment"
+			}
+		],
+		"termsList": [
+			{
+				"terms": "Penggunaan Situs",
+				"terms_details": "Situs dan kontennya, termasuk namun tidak terbatas pada teks, gambar, dan perangkat lunak, adalah milik Gitlime dan dilindungi oleh hak cipta dan undang-undang kekayaan intelektual lainnya. Anda tidak boleh menggunakan Situs atau kontennya untuk tujuan komersial apa pun tanpa persetujuan tertulis dari Gitlime."
+			},
+			{
+				"terms": "Jasa",
+				"terms_details": "Gitlime menyediakan layanan pengembangan situs web dan pengembangan aplikasi web untuk kliennya. Dengan menggunakan Situs atau layanan apa pun yang disediakan di Situs, Anda setuju untuk terikat oleh syarat dan ketentuan perjanjian apa pun antara Anda dan Gitlime terkait penggunaan layanan tersebut."
+			},
+			{
+				"terms": "Penafian",
+				"terms_details": "Situs dan isinya disediakan atas dasar apa adanya. Gitlime tidak membuat pernyataan atau jaminan dalam bentuk apa pun, tersurat maupun tersirat, sehubungan dengan pengoperasian Situs atau informasi, konten, materi, atau produk yang disertakan di Situs."
+			},
+			{
+				"terms": "Batasan Kewajiban",
+				"terms_details": "Gitlime tidak akan bertanggung jawab atas kerusakan apa pun yang timbul dari penggunaan Situs atau layanan apa pun yang disediakan di Situs, termasuk tetapi tidak terbatas pada kerusakan langsung, tidak langsung, insidental, hukuman, dan konsekuensial."
+			},
+			{
+				"terms": "Ganti Rugi",
+				"terms_details": "Anda setuju untuk mengganti rugi dan membebaskan Gitlime, pejabat, direktur, karyawan, agen, dan penerima haknya dari klaim, kerusakan, dan pengeluaran apa pun, termasuk biaya pengacara yang wajar, yang timbul dari penggunaan Anda atas Situs atau layanan apa pun yang disediakan di Situs."
+			},
+			{
+				"terms": "Peraturan pemerintah",
+				"terms_details": "Ketentuan ini akan diatur oleh dan ditafsirkan sesuai dengan hukum Negara Bagian [NEGARA], tanpa memberlakukan prinsip konflik hukum apa pun."
+			},
+			{
+				"terms": "Perubahan Ketentuan",
+				"terms_details": "Gitlime berhak untuk melakukan perubahan pada Ketentuan kapan saja. Anda terus menggunakan Situs ini setelah posting perubahan Ketentuan akan menunjukkan penerimaan Anda terhadap perubahan tersebut"
+			},
+			{
+				"terms": "Hubungi kami",
+				"terms_details": "Jika Anda memiliki pertanyaan tentang Ketentuan ini, silakan hubungi kami di: Email: hello@gitlime.com"
+			}
+		]
+	}
+}

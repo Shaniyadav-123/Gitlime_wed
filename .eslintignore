@@ -1,0 +1,16 @@
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Next.js cache directory
+.next/
+
+# Ignore build artifacts
+build/
+
+# Ignore log files
+*.log
+*.log
+out
+.vercel
+.husky

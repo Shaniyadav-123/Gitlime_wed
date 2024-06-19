@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <clipPath id="clip-Home">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="Home" clip-path="url(#clip-Home)">
+    <rect width="1366" height="768" fill="#fbfbfb"/>
+    <text id="DESign" transform="translate(706.5 208.5)" fill="rgba(49,49,49,0.03)" font-size="150" font-family="Helvetica"><tspan x="0" y="0">Design</tspan></text>
+    <text id="Development" transform="translate(63.5 536.5)" fill="rgba(49,49,49,0.03)" font-size="150" font-family="Helvetica"><tspan x="0" y="0">Development</tspan></text>
+    <text id="Events_Marketing" data-name="Events Marketing" transform="translate(300.5 359.5)" fill="rgba(49,49,49,0.03)" font-size="150" font-family="Helvetica"><tspan x="0" y="0">Events Marketing</tspan></text>
+    <text id="Business_Solution" data-name="Business Solution" transform="translate(335.5 711.5)" fill="rgba(49,49,49,0.03)" font-size="150" font-family="Helvetica"><tspan x="0" y="0">Business Solution</tspan></text>
+  </g>
+</svg>

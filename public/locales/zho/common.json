@@ -1,0 +1,173 @@
+{
+	"title": "一个简单的例子",
+	"subtitle": "这是一个空白页面。从这里开始建立你的页面。",
+	"error_with_status": "服务器上发生错误",
+	"404": "无法找到此页面。",
+	"404_subtitle": "你可以留在这里冷静，或者回到起点。",
+	"back": "回到家",
+	"error_without_status": "服务器上发生错误",
+	"contact_title": "免费项目报价",
+	"contact_subtitle": "你有什么问题吗？你准备好降低成本并创造新的收入吗？或者你只是想打个招呼？给我们留言。",
+	"form_name": "你叫什么名字？*",
+	"form_email": "你的电子邮件是什么？*",
+	"form_phone": "你的电话号码是多少？",
+	"form_company": "你的公司是什么？",
+	"form_message": "在这里写下你的留言",
+	"form_terms": "我已阅读并接受条款",
+	"form_privacy": "服务与隐私政策*",
+	"form_send": "发送消息",
+	"accept": "接受",
+	"eng": "English",
+	"deu": "Deutsch",
+	"zho": "简体中文",
+	"prt": "󠁥󠁮󠁧󠁿Português",
+	"ind": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
+	"ara": "󠁥󠁮󠁧󠁿العربيّة",
+	"notif_msg": "这是一条消息示例，通常用于向访问者或用户提供重要信息。 请单击旁边的按钮以关闭此消息。",
+	"agency-landing": {
+		"header_about": "约",
+		"header_services": "服务",
+		"header_our-expertise": "我们的专业知识",
+		"header_testimonials": "推荐",
+		"header_case-studies": "案例研究",
+		"header_our_office": "我们的办公室",
+		"header_contact": "联系人",
+		"header_language": "语言",
+		"header_theme": "主题模式",
+		"header_dark": "黑暗",
+		"header_light": "光",
+		"banner_title": "创建业务解决方案",
+		"banner_subtitle": "我们与国际创业公司合作，帮助企业家长期推出。",
+		"banner_button": "写给我们",
+		"about_title": "关于我们",
+		"about_subtitle": "通过我们的大容量，我们敢说我们是不同的。",
+		"about_para_one": "欢迎来到领先的网站和 Web 应用程序开发服务提供商 Gitlime。我们与领先的软件开发公司一起为企业家、初创企业和企业开发结果驱动的产品。",
+		"about_para_two": "在 Gitlime，我们专注于了解您的目标并利用最新技术，为各种行业提供卓越的成果。相信我们会在您数字化转型之旅的每一步与您同在。我们的团队努力帮助您将想法整合在一起，开始您正在从事的项目的开发方面。使您的应用程序更有条理和合规，使您能够坚持使用 Gitlime",
+		"about_para_three": "我们技术娴熟的开发人员和工程师团队致力于创建满足您独特需求并推动业务成功的创新解决方案。我们竭尽全力，以便我们的用户获得最佳结果。建设你的，今天创造一个更美好的未来。在创纪录的时间内以极快的速度和令人难以置信的性能构建应用程序。应用程序开发并不奢侈。它是一个成功的工具，会驱使你使用 Gitlime。",
+		"about_employee": "员工",
+		"about_projects": "项目",
+		"about_client": "客户",
+		"about_quote": "它留下了苦乐参半的味道，这就是所谓的布鲁斯",
+		"services_title": "我们的服务",
+		"services_button": "看详情",
+		"expertise_title": "我们的专长",
+		"expertise_subtitle": "一个成功的团队建立了一个成功的项目。",
+		"expertise_paragraph": "这就是为什么我们为您提供您需要时建立的人力资源。我们的on_shoring和近乎离岸的团队都经过培训和监督，作为我们的一部分。您的团队致力于您的项目。团队很灵活！",
+		"testimonial_title": "客户见证",
+		"case_title": "案例研究",
+		"cta_title": "准备好开始？",
+		"cta_subtitle": "最好的技术团队不是即刻诞生的，他们是......",
+		"cta_btn": "联系我们",
+		"office_title": "我们的办公室",
+		"office_head": "总部",
+		"office_branch": "分公司",
+		"footer_paragraph": "我们已经经营了近十年。帮助你是我们的首要任务",
+		"terms_conditions_title": "Gitlime Terms & Conditions",
+		"terms_conditions_greet": "Welcome to the Gitlime website(the 'site').",
+		"terms_conditions_para": "By accessing or using the Site or any services provided on the Site, you agree to be bound by the following terms and conditions(the 'terms'). If you do not agree to these Terms, you may not access or use the Site or any services provided on the Site.",
+		"carouselItems": [
+			{
+				"id": 1,
+				"title": "将想法转化为数字解决方案",
+				"desc": "让我们帮助您通过专业的软件开发将您的愿景变为现实。",
+				"img": "imgApi.carousel[4]"
+			},
+			{
+				"id": 2,
+				"title": "实现您的技术梦想",
+				"desc": "我们提供定制解决方案以满足您的独特需求并推动您的业务发展",
+				"img": "imgApi.carousel[0]"
+			},
+			{
+				"id": 3,
+				"title": "创造尖端技术",
+				"desc": "使用专为满足您的独特需求而设计的定制软件，改变您开展业务的方式。",
+				"img": "imgApi.carousel[1]"
+			},
+			{
+				"id": 4,
+				"title": "创新软件，无限可能",
+				"desc": "加入我们，我们引领尖端软件解决方案的开发",
+				"img": "imgApi.carousel[3]"
+			}
+		],
+		"servicesList": [
+			{
+				"title": "品牌推广",
+				"desc": "我们擅长什么？电影、广告、摄影、直播视频制作、视觉品牌战略和传播设计等等。",
+				"img": "imgApi.agency[0]",
+				"btnLink": "/branding"
+			},
+			{
+				"title": "用户界面/用户体验设计",
+				"desc": "用基石数字资产点燃你的在线身份。用卓越的设计和功能建立你的存在",
+				"img": "imgApi.agency[1]",
+				"btnLink": "/uxdesign"
+			},
+			{
+				"title": "数字营销和内容",
+				"desc": "我们的数字营销专家提供有竞争力的优质数字营销服务，通过 SEO、SMO、SEM 和在线声誉实现转化。",
+				"img": "imgApi.agency[2]",
+				"btnLink": "/digitalmarketing"
+			},
+			{
+				"title": "网站开发",
+				"desc": "我们提供功能丰富的 Web 应用程序的最佳开发，这些应用程序超越了基本要素并可跨多种设备工作。",
+				"img": "imgApi.agency[3]",
+				"btnLink": "/websitedevelopment"
+			},
+			{
+				"title": "应用部署与维护",
+				"desc": "典型的应用程序程序部分包括了几个关键步骤。以相同的方式完成这些步骤的直接方法决定了潜在的部分成功。",
+				"img": "imgApi.agency[4]",
+				"btnLink": "/applicationdeployment"
+			},
+			{
+				"title": "产品设计与开发",
+				"desc": "与领先的软件开发公司合作，为企业家、初创企业和企业开发以结果为导向的产品。",
+				"img": "imgApi.agency[5]",
+				"btnLink": "/productdesign"
+			},
+			{
+				"title": "企业资源计划开发",
+				"desc": "每个企业都需要开发新的业务模型以避免被颠覆，提高效率以资助创新，并在没有业务风险的情况下转换关键任务系统。",
+				"img": "imgApi.agency[6]",
+				"btnLink": "/erpdevelopment"
+			}
+		],
+		"termsList": [
+			{
+				"terms": "网站的使用",
+				"terms_details": "本网站及其内容，包括但不限于文本、图像和软件，是 Gitlime 的财产，受版权法和其他知识产权法的保护。未经 Gitlime 明确书面同意，您不得将本网站或其内容用于任何商业目的。"
+			},
+			{
+				"terms": "服务",
+				"terms_details": "Gitlime 为其客户提供网站开发和网络应用程序开发服务。通过使用本网站或本网站提供的任何服务，您同意受您与 Gitlime 之间关于使用此类服务​​的任何协议的条款和条件的约束。"
+			},
+			{
+				"terms": "免责声明",
+				"terms_details": "本网站及其内容按原样提供。 Gitlime 对本网站的运营或本网站包含的信息、内容、材料或产品不作任何明示或暗示的陈述或保证。"
+			},
+			{
+				"terms": "责任限制》",
+				"terms_details": "Gitlime 对因使用本网站或本网站提供的任何服务而引起的任何类型的损害不承担任何责任，包括但不限于直接、间接、偶然、惩罚性和后果性损害。"
+			},
+			{
+				"terms": "保障",
+				"terms_details": "您同意赔偿 Gitlime、其管理人员、董事、雇员、代理人和受让人因您使用本网站或本网站提供的任何服务而产生的任何索赔、损害和费用，包括合理的律师费，并使其免受损害。"
+			},
+			{
+				"terms": "适用法律",
+				"terms_details": "这些条款应受 [STATE] 州法律管辖并根据其解释，但不影响任何法律冲突原则。"
+			},
+			{
+				"terms": "条款变更",
+				"terms_details": "Gitlime 保留随时更改条款的权利。您在发布条款变更后继续使用本网站即表示您接受这些变更"
+			},
+			{
+				"terms": "联系我们",
+				"terms_details": "如果您对这些条款有任何疑问，请通过以下方式联系我们：电子邮件：hello@gitlime.com"
+			}
+		]
+	}
+}

@@ -1,0 +1,173 @@
+{
+	"title": "Ein einfaches Beispiel",
+	"subtitle": "Es ist eine leere Seite. Baue deine Seite mit here auf",
+	"error_with_status": "Auf dem Server ist ein Fehler aufgetreten",
+	"404": "Diese Seite konnte nicht gefunden werden.",
+	"404_subtitle": "Sie können entweder hier bleiben und entspannen oder zum Anfang zurückkehren.",
+	"zurück": "zurück nach Hause",
+	"error_without_status": "Auf dem Server ist ein Fehler aufgetreten",
+	"contact_title": "Kostenloses Projektangebot",
+	"contact_subtitle": "Haben Sie Fragen? Sind Sie bereit, Kosten zu senken und neue Einnahmen zu generieren? Oder möchten Sie einfach nur Hallo sagen? Schreiben Sie uns eine Nachricht.",
+	"form_name": "Wie ist Ihr Name? *",
+	"form_email": "Wie lautet Ihre E-Mail-Adresse? *",
+	"form_phone": "Wie lautet Ihre Telefonnummer?",
+	"form_company": "Was ist Ihre Firma?",
+	"form_message": "Geben Sie hier Ihre Nachricht ein",
+	"form_terms": "Ich habe die AGB von gelesen und akzeptiere sie.",
+	"form_privacy": "Service & Datenschutz *",
+	"form_send": "Nachricht senden",
+	"accept": "Accept",
+	"eng": "English",
+	"deu": "Deutsch",
+	"zho": "简体中文",
+	"prt": "󠁥󠁮󠁧󠁿Português",
+	"ind": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
+	"ara": "󠁥󠁮󠁧󠁿العربيّة",
+	"notif_msg": "Dies ist ein Beispiel für eine Nachricht, die häufig für wichtige Informationen für Besucher oder Benutzer verwendet wird. Bitte klicken Sie auf die Schaltfläche neben, um diese Nachricht zu schließen.",
+	"agency-landing": {
+		"header_about": "Über",
+		"header_services": "dienstleistungen",
+		"header_our-expertise": "unsere Expertise",
+		"header_testimonials": "Referenzen",
+		"header_case-studies": "Fallstudien",
+		"header_our-office": "unser Büro",
+		"header_contact": "Kontakt",
+		"header_language": "language",
+		"header_theme": "Themenmodus",
+		"header_dark": "dunkel",
+		"header_light": "Licht",
+		"banner_title": "Geschäftslösung erstellen",
+		"banner_subtitle": "Wir arbeiten mit internationalen Startups zusammen und helfen Unternehmern, langfristig zu starten.",
+		"banner_button": "Schreiben Sie uns",
+		"about_title": "Über uns",
+		"about_subtitle": "Durch unsere große Kapazität trauen wir uns zu sagen, dass wir anders sind.",
+		"about_para_one": "Welkom bij Gitlime, een toonaangevende leverancier van diensten voor het ontwikkelen van websites en webapplicaties. We ontwikkelen resultaatgerichte producten voor ondernemers, startups en ondernemingen met een toonaangevend softwareontwikkelingsbedrijf.",
+		"about_para_two": "Bij Gitlime, met een focus op het begrijpen van uw doelen en het gebruik van de nieuwste technologie, leveren we uitzonderlijke resultaten voor verschillende industrieën. Vertrouw erop dat we bij elke stap van uw digitale transformatietraject bij u zijn. Ons team werkt er hard aan om u te helpen ideeën op te doen om aan de slag te gaan met het ontwikkelingsaspect van het project waaraan u werkt. Om uw aanvraag beter georganiseerd en nageleefd te maken, zodat u zich aan Gitlime kunt houden",
+		"about_para_three": "Ons team van bekwame ontwikkelaars en ingenieurs is toegewijd aan het creëren van innovatieve oplossingen die voldoen aan uw unieke behoeften en zakelijk succes stimuleren. We doen ons best zodat onze gebruikers het beste resultaat behalen. Bouw de jouwe, creëer vandaag een betere toekomst. Bouw apps met razendsnelle snelheid en ongelooflijke prestaties in recordtijd. App-ontwikkeling is geen luxe. Het is een hulpmiddel voor succes dat je naar de Gitlime zal drijven.",
+		"about_employee": "employee",
+		"about_projects": "projekte",
+		"about_client": "clients",
+		"about_quote": "Es hinterlässt einen Geschmack, der bittersüß ist. Das nennt man den Blues.",
+		"services_title": "Unsere Dienstleistungen",
+		"services_button": "siehe Detail",
+		"expertise_title": "Unsere Expertise",
+		"expertise_subtitle": "Ein erfolgreiches Projekt wird mit einem erfolgreichen Team aufgebaut.",
+		"expertise_paragraph": "Aus diesem Grund stellen wir Ihnen die personellen Ressourcen zur Verfügung, die Sie benötigen, um bei Bedarf aufzubauen. Unsere On_Shoring- und Near-Offshoring-Teams werden als Teil von uns geschult und überwacht. Ihr Team widmet sich Ihren Projekten. Und das Team ist flexibel! ",
+		"testimonial_title": "Kundenreferenz",
+		"case_title": "Fallstudien",
+		"cta_title": "Bereit zum Starten?",
+		"cta_subtitle": "Das beste Tech-Team ist nicht sofort geboren, sondern geschaffen ...",
+		"cta_btn": "kontaktieren Sie uns",
+		"office_title": "Unser Büro",
+		"office_head": "Hauptsitz",
+		"office_branch": "Branch Office",
+		"footer_paragraph": "Wir sind seit fast einem Jahrzehnt im Geschäft. Es ist unsere oberste Priorität, Ihnen zu helfen.",
+		"terms_conditions_title": "Gitlime Terms & Conditions",
+		"terms_conditions_greet": "Welcome to the Gitlime website(the 'site').",
+		"terms_conditions_para": "Door toegang te krijgen tot of gebruik te maken van de Site of enige diensten die op de Site worden aangeboden, stemt u ermee in gebonden te zijn aan de volgende voorwaarden (de 'voorwaarden'). Als u niet akkoord gaat met deze voorwaarden, mag u de site of de services die op de site worden aangeboden, niet openen of gebruiken.",
+		"carouselItems": [
+			{
+				"id": 1,
+				"title": "Ideeën omzetten in digitale oplossingen",
+				"desc": "Laat ons u helpen uw visie tot leven te brengen met deskundige softwareontwikkeling.",
+				"img": "imgApi.carousel[4]"
+			},
+			{
+				"id": 2,
+				"title": "Breng uw technische dromen tot leven",
+				"desc": "Wij leveren op maat gemaakte oplossingen die voldoen aan uw unieke behoeften en uw bedrijf vooruit helpen",
+				"img": "imgApi.carousel[0]"
+			},
+			{
+				"id": 3,
+				"title": "Geavanceerde technologie creëren",
+				"desc": "Transformeer de manier waarop u zaken doet met op maat gemaakte software die is ontworpen om aan uw unieke behoeften te voldoen.",
+				"img": "imgApi.carousel[1]"
+			},
+			{
+				"id": 4,
+				"title": "Innovatieve software, grenzeloze mogelijkheden",
+				"desc": "Doe met ons mee terwijl we voorop lopen in de ontwikkeling van geavanceerde softwareoplossingen",
+				"img": "imgApi.carousel[3]"
+			}
+		],
+		"servicesList": [
+			{
+				"title": "Branding",
+				"desc": "Waar zijn we goed in? films, reclame, fotografie, livestream-videoproductie, visuele merkstrategie en communicatieontwerp, om er maar een paar te noemen.",
+				"img": "imgApi.agency[0]",
+				"btnLink": "/branding"
+			},
+			{
+				"title": "UI/UX-ontwerp",
+				"desc": "Geef uw online identiteit een boost met de belangrijkste digitale middelen.Bouw uw aanwezigheid op met prachtige ontwerpen en functionaliteit",
+				"img": "imgApi.agency[1]",
+				"btnLink": "/uxdesign"
+			},
+			{
+				"title": "Digitale marketing en inhoud",
+				"desc": "Onze digitale marketingexpert biedt concurrerende en hoogwaardige digitale marketingdiensten die conversies opleveren via SEO, SMO, SEM en online reputatie.",
+				"img": "imgApi.agency[2]",
+				"btnLink": "/digitalmarketing"
+			},
+			{
+				"title": "Website ontwikkeling",
+				"desc": "We bieden de beste ontwikkeling van feature-rijke webapplicaties die boven de essentie uitstijgen en op meerdere apparaten werken.",
+				"img": "imgApi.agency[3]",
+				"btnLink": "/websitedevelopment"
+			},
+			{
+				"title": "Implementatie en onderhoud van applicaties",
+				"desc": "Een typisch applicatie-implementatieproces bestaat uit verschillende belangrijke fasen. Een intuïtieve benadering om deze stappen op een gesynchroniseerde manier uit te voeren, bepaalt het potentiële succes van de implementatie.",
+				"img": "imgApi.agency[4]",
+				"btnLink": "/applicationdeployment"
+			},
+			{
+				"title": "Productontwerp en -ontwikkeling",
+				"desc": "Ontwikkel resultaatgerichte producten voor ondernemers, startups en ondernemingen met een toonaangevend softwareontwikkelingsbedrijf.",
+				"img": "imgApi.agency[5]",
+				"btnLink": "/productdesign"
+			},
+			{
+				"title": "ERP-ontwikkeling",
+				"desc": "Elke onderneming moet nieuwe bedrijfsmodellen ontwikkelen om verstoringen te voorkomen, efficiëntie te winnen om innovatie te financieren en bedrijfskritische systemen te transformeren zonder bedrijfsrisico's.",
+				"img": "imgApi.agency[6]",
+				"btnLink": "/erpdevelopment"
+			}
+		],
+		"termsList": [
+			{
+				"terms": "Gebruik van de Site",
+				"terms_details": "De site en de inhoud ervan, inclusief maar niet beperkt tot tekst, afbeeldingen en software, zijn eigendom van Gitlime en worden beschermd door copyright en andere intellectuele eigendomsrechten. U mag de site of de inhoud ervan niet gebruiken voor commerciële doeleinden zonder de uitdrukkelijke schriftelijke toestemming van Gitlime."
+			},
+			{
+				"terms": "Diensten",
+				"terms_details": "Gitlime levert website-ontwikkeling en webapplicatie-ontwikkelingsdiensten aan haar klanten. Door gebruik te maken van de Site of een van de diensten die op de Site worden aangeboden, stemt u ermee in gebonden te zijn aan de voorwaarden van een overeenkomst tussen u en Gitlime met betrekking tot het gebruik van dergelijke diensten."
+			},
+			{
+				"terms": "Vrijwaring",
+				"terms_details": "De site en de inhoud ervan worden geleverd op een 'as is'-basis. Gitlime geeft geen verklaringen of garanties van welke aard dan ook, expliciet of impliciet, met betrekking tot de werking van de site of de informatie, inhoud, materialen of producten op de site."
+			},
+			{
+				"terms": "Beperking van aansprakelijkheid",
+				"terms_details": "Gitlime is niet aansprakelijk voor enige schade van welke aard dan ook die voortvloeit uit het gebruik van de Site of diensten die op de Site worden aangeboden, inclusief maar niet beperkt tot directe, indirecte, incidentele, punitieve en gevolgschade."
+			},
+			{
+				"terms": "Vrijwaring",
+				"terms_details": "U stemt ermee in Gitlime, zijn functionarissen, directeuren, werknemers, agenten en rechtverkrijgenden schadeloos te stellen en te vrijwaren van alle claims, schade en uitgaven, inclusief redelijke advocaatkosten, die voortvloeien uit uw gebruik van de Site of enige op de Site geleverde diensten."
+			},
+			{
+				"terms": "Toepasselijk recht",
+				"terms_details": "Deze voorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met de wetten van de staat [STAAT], zonder uitvoering te geven aan principes van wetsconflicten."
+			},
+			{
+				"terms": "Wijzigingen in de voorwaarden",
+				"terms_details": "Gitlime behoudt zich het recht voor om op elk moment wijzigingen aan te brengen in de Voorwaarden. Als u de site blijft gebruiken na het plaatsen van wijzigingen in de voorwaarden, geeft u aan dat u deze wijzigingen accepteert"
+			},
+			{
+				"terms": "Neem contact met ons op",
+				"terms_details": "Als u vragen heeft over deze Voorwaarden, neem dan contact met ons op via: E-mail: hello@gitlime.com"
+			}
+		]
+	}
+}

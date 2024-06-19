@@ -1,0 +1,172 @@
+{
+	"title": "A simple example",
+	"subtitle": "It's a blank-page. Start to build your'e page from here.",
+	"error_with_status": "An error occurred on server",
+	"404": "This page could not be found.",
+	"404_subtitle": "You can either stay and chill here, or go back to the beginning.",
+	"back": "back to home",
+	"error_without_status": "An error occurred on the server",
+	"contact_title": "Free Project Quote",
+	"contact_subtitle": "Do you have any questions? Are you ready to reduce cost and create new revenue? Or you simply want to say hi? Drop us a message.",
+	"form_name": "What is your name? *",
+	"form_email": "What it your email? *",
+	"form_phone": "What is your phone number?",
+	"form_company": "What is your company?",
+	"form_message": "Write your message here",
+	"form_terms": "I have read and accept the Terms of",
+	"form_privacy": "Service & Privacy Policy *",
+	"form_send": "Send Message",
+	"accept": "Accept",
+	"eng": "English",
+	"deu": "Deutsch",
+	"zho": "简体中文",
+	"prt": "󠁥󠁮󠁧󠁿Português",
+	"ind": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
+	"ara": "󠁥󠁮󠁧󠁿العربيّة",
+	"notif_msg": "We use cookies to enhance your experience and improve our website performance. By using our site, you accept our use of cookies. Thank you for choosing Gitlime.",
+	"agency-landing": {
+		"header_about": "about",
+		"header_services": "services",
+		"header_our-expertise": "our expertise",
+		"header_testimonials": "testimonials",
+		"header_case-studies": "case studies",
+		"header_our_office": "our office",
+		"header_contact": "contact",
+		"header_language": "language",
+		"header_theme": "theme mode",
+		"header_dark": "dark",
+		"header_light": "light",
+		"banner_title": "One Stop Business Solution",
+		"banner_subtitle": "We focus on the nature of your business and what you need for a fruitful online presence to ultimately push revenues further up.",
+		"banner_button": "Get Quote",
+		"about_title": "About us",
+		"about_para_one": "Welcome to Gitlime, a leading provider of website and web application development services.We Develop results-driven products for entrepreneurs, startups, and enterprises with a leading software development company.",
+		"about_para_two": "At Gitlime,with a focus on understanding your goals and utilizing the latest technology, we deliver exceptional results for a variety of industries. Trust us to be with you every step of your digital transformation journey.Our team works hard to help you piece ideas together getting started on the developing aspect of the project you’re working on. To make your application more organised and complied to give you the ability to stick to “Gitlime",
+		"about_para_three": "Our team of skilled developers and engineers are dedicated to creating innovative solutions that meet your unique needs and drive business success.We give our best so that our users get the best result. Build yours, create a better future today. Build apps with blazing fast speed and incredible performance in record time. App development isn’t luxury. It’s a tool for success which will drive you to the Gitlime.",
+		"about_employee": "employee",
+		"about_projects": "projects",
+		"about_client": "clients",
+		"about_quote": "We build beautiful products. Let’s develop yours.",
+		"services_title": "Our Services",
+		"services_button": "see detail",
+		"expertise_title": "Our Expertise",
+		"expertise_subtitle": "We develop enterprise-grade software solutions for businesses.",
+		"expertise_paragraph": "Our capabilities help our clients not only define digital strategies, but also—unique for our industry—bring to market and operationalize digital products at scale.",
+		"testimonial_title": "client testimonials",
+		"case_title": "Case studies",
+		"cta_title": "Ready to get started?",
+		"cta_subtitle": "Best Tech team are not instant born, they’re made...",
+		"cta_btn": "contact us",
+		"office_title": "Our Office",
+		"office_head": "Head Quarter",
+		"office_branch": "Branch Office",
+		"footer_paragraph": "We have been in business for almost a decade. Helping you is our top priority.",
+		"terms_conditions_title": "Gitlime Terms & Conditions",
+		"terms_conditions_greet": "Welcome to the Gitlime website(the 'site').",
+		"terms_conditions_para": "By accessing or using the Site or any services provided on the Site, you agree to be bound by the following terms and conditions(the 'terms'). If you do not agree to these Terms, you may not access or use the Site or any services provided on the Site."
+	},
+	"carouselItems": [
+		{
+			"id": 1,
+			"title": "Transforming ideas into digital solutions",
+			"desc": "Let us help you bring your vision to life with expert software development.",
+			"img": "imgApi.carousel[4]"
+		},
+		{
+			"id": 2,
+			"title": "Bringing your tech dreams to life",
+			"desc": "We deliver custom solutions that meet your unique needs and drive your business forward",
+			"img": "imgApi.carousel[0]"
+		},
+		{
+			"id": 3,
+			"title": "Creating Cutting-Edge Technology",
+			"desc": "Transform the way you do business with custom software designed to meet your unique needs.",
+			"img": "imgApi.carousel[1]"
+		},
+		{
+			"id": 4,
+			"title": "Innovative software, limitless possibilities",
+			"desc": "Join us as we lead the way in the development of cutting-edge software solutions",
+			"img": "imgApi.carousel[3]"
+		}
+	],
+	"servicesList": [
+		{
+			"title": "Branding",
+			"desc": "What are the things we’re good at? films, advertising, photography, live stream video production, visual brand strategy, and communication design, to name a few.",
+			"img": "imgApi.agency[0]",
+			"btnLink": "/branding"
+		},
+		{
+			"title": "UI/ UX design",
+			"desc": "Ignite your online identity with cornerstone digital assets.Build your presence with superb designs and functionality",
+			"img": "imgApi.agency[1]",
+			"btnLink": "/uxdesign"
+		},
+		{
+			"title": "Digital Marketing and Content",
+			"desc": "Our digital marketing expert offers competitive & quality digital marketing services which deliver conversions via SEO, SMO, SEM & online reputation.",
+			"img": "imgApi.agency[2]",
+			"btnLink": "/digitalmarketing"
+		},
+		{
+			"title": "Website development",
+			"desc": "We provide best development of feature-rich web applications that rise above the essentials and work across multiple devices.",
+			"img": "imgApi.agency[3]",
+			"btnLink": "/websitedevelopment"
+		},
+		{
+			"title": "Application Deployment & Maintenance ",
+			"desc": "A typical application deployment process consists of several key phases. An intuitive approach to completing these steps in a synchronized fashion dictates potential deployment success.",
+			"img": "imgApi.agency[4]",
+			"btnLink": "/applicationdeployment"
+		},
+		{
+			"title": "Product Design & Development",
+			"desc": "Develop results-driven products for entrepreneurs, startups, and enterprises with a leading software development company.",
+			"img": "imgApi.agency[5]",
+			"btnLink": "/productdesign"
+		},
+		{
+			"title": "ERP Development",
+			"desc": "Every enterprise needs to develop new business models to avoid being disrupted, gain efficiencies to fund innovation, and transform mission-critical systems without business risk.",
+			"img": "imgApi.agency[6]",
+			"btnLink": "/erpdevelopment"
+		}
+	],
+	"termsList": [
+		{
+			"terms": "Use of the Site",
+			"terms_details": "The Site and its contents, including but not limited to text, images, and software, are the property of Gitlime and are protected by copyright and other intellectual property laws. You may not use the Site or its contents for any commercial purpose without the express written consent of Gitlime."
+		},
+		{
+			"terms": "Services",
+			"terms_details": "Gitlime provides website development and web application development services to its clients. By using the Site or any services provided on the Site, you agree to be bound by the terms and conditions of any agreement between you and Gitlime regarding the use of such services."
+		},
+		{
+			"terms": "Disclaimer",
+			"terms_details": "The Site and its contents are provided on an as is basis. Gitlime makes no representations or warranties of any kind, express or implied, as to the operation of the Site or the information, content, materials, or products included on the Site."
+		},
+		{
+			"terms": "Limitation of Liability",
+			"terms_details": "Gitlime shall not be liable for any damages of any kind arising from the use of the Site or any services provided on the Site, including but not limited to direct, indirect, incidental, punitive, and consequential damages."
+		},
+		{
+			"terms": "Indemnification",
+			"terms_details": "You agree to indemnify and hold Gitlime, its officers, directors, employees, agents, and assigns harmless from any claims, damages, and expenses, including reasonable attorneys fees, arising from your use of the Site or any services provided on the Site."
+		},
+		{
+			"terms": "Governing Law",
+			"terms_details": "These Terms shall be governed by and construed in accordance with the laws of the State of [STATE], without giving effect to any principles of conflicts of law."
+		},
+		{
+			"terms": "Changes to the Terms",
+			"terms_details": "Gitlime reserves the right to make changes to the Terms at any time. Your continued use of the Site following the posting of changes to the Terms will indicate your acceptance of those changes"
+		},
+		{
+			"terms": "Contact Us",
+			"terms_details": "If you have any questions about these Terms, please contact us at: Email: hello@gitlime.com "
+		}
+	]
+}

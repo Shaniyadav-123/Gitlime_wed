@@ -1,0 +1,173 @@
+{
+	"title": "Um exemplo simples",
+	"subtitle": "É uma página em branco. Comece a construir sua página aqui.",
+	"error_with_status": "Ocorreu um erro no servidor",
+	"404": "Não foi possível encontrar esta página.",
+	"404_subtitle": "Você pode ficar e relaxar aqui, ou voltar ao começo.",
+	"back": "voltar para casa",
+	"error_without_status": "Ocorreu um erro no servidor",
+	"contact_title": "Orçamento gratuito do projeto",
+	"contact_subtitle": "Você tem alguma dúvida? Você está pronto para reduzir custos e criar novas receitas? Ou simplesmente quer dizer oi? Envie-nos uma mensagem.",
+	"form_name": "Qual é o seu nome? *",
+	"form_email": "Qual é o seu email? *",
+	"form_phone": "Qual é o seu número de telefone?",
+	"form_company": "Qual é a sua empresa?",
+	"form_message": "Escreva sua mensagem aqui",
+	"form_terms": "Li e aceito os Termos de",
+	"form_privacy": "Serviço e política de privacidade *",
+	"form_send": "Enviar mensagem",
+	"accept": "aceitar",
+	"eng": "English",
+	"deu": "Deutsch",
+	"zho": "简体中文",
+	"prt": "󠁥󠁮󠁧󠁿Português",
+	"ind": "󠁥󠁮󠁧󠁿Bahasa Indonesia",
+	"ara": "󠁥󠁮󠁧󠁿العربيّة",
+	"notif_msg": "Este é um exemplo de mensagem comumente usada para informações importantes para visitantes ou usuários. Clique no botão ao lado para fechar esta mensagem.",
+	"agency-landing": {
+		"header_about": "sobre",
+		"header_services": "serviços",
+		"header_our-expertise": "nossa experiência",
+		"header_testimonials": "depoimentos",
+		"header_case-studies": "estudos de caso",
+		"header_our_office": "nosso escritório",
+		"header_contact": "contato",
+		"header_language": "língua",
+		"header_theme": "modo de tema",
+		"header_dark": "escuro",
+		"header_light": "luz",
+		"banner_title": "Criar solução comercial",
+		"banner_subtitle": "Trabalhamos com startups internacionais, ajudamos os empreendedores a serem lançados a longo prazo.",
+		"banner_button": "escreva-nos",
+		"about_title": "Sobre nós",
+		"about_subtitle": "Através de nossa grande capacidade, ousamos dizer que somos diferentes.",
+		"about_para_one": "Bem-vindo ao Gitlime, um provedor líder de serviços de desenvolvimento de sites e aplicativos da web. Desenvolvemos produtos orientados a resultados para empreendedores, startups e empresas com uma empresa líder de desenvolvimento de software.",
+		"about_para_two": "No Gitlime, com foco em entender seus objetivos e utilizar a tecnologia mais recente, oferecemos resultados excepcionais para uma variedade de setores. Confie em nós para estar com você em todas as etapas de sua jornada de transformação digital. Nossa equipe trabalha muito para ajudá-lo a reunir ideias para começar o aspecto de desenvolvimento do projeto em que você está trabalhando. Para tornar seu aplicativo mais organizado e compatível para oferecer a capacidade de aderir ao Gitlime",
+		"about_para_three": "Nossa equipe de desenvolvedores e engenheiros qualificados se dedica a criar soluções inovadoras que atendam às suas necessidades exclusivas e conduzam ao sucesso dos negócios. Damos o nosso melhor para que nossos usuários obtenham o melhor resultado. Construa o seu, crie um futuro melhor hoje. Crie aplicativos com velocidade incrivelmente rápida e desempenho incrível em tempo recorde. O desenvolvimento de aplicativos não é luxo. É uma ferramenta de sucesso que o levará ao Gitlime.",
+		"about_employee": "recursos humanos",
+		"about_projects": "projetos",
+		"about_client": "clientes",
+		"about_quote": "Deixa um sabor agridoce chamado de blues",
+		"services_title": "Nossos serviços",
+		"services_button": "ver detalhes",
+		"expertise_title": "Nossa experiência",
+		"expertise_subtitle": "Um projeto de sucesso é construído com uma equipe de sucesso.",
+		"expertise_paragraph": "É por isso que fornecemos os recursos humanos que você precisa criar sempre que precisar. Nossas equipes de on_shoring e quase offshoring são treinadas e supervisionadas como parte de nós. Sua equipe é dedicada aos seus projetos. E a equipe é flexível! ",
+		"testimonial_title": "depoimento de cliente",
+		"case_title": "Estudos de caso",
+		"cta_title": "Pronto para começar?",
+		"cta_subtitle": "A equipe da Best Tech não nasceu instantaneamente, foi criada ...",
+		"cta_btn": "entre em contato",
+		"office_title": "Nosso escritório",
+		"office_head": "Quartel-general",
+		"office_branch": "Filial",
+		"footer_paragraph": "Estamos no mercado há quase uma década. Ajudá-lo é a nossa principal prioridade.",
+		"terms_conditions_title": "Gitlime Terms & Conditions",
+		"terms_conditions_greet": "Welcome to the Gitlime website(the 'site').",
+		"terms_conditions_para": "By accessing or using the Site or any services provided on the Site, you agree to be bound by the following terms and conditions(the 'terms'). If you do not agree to these Terms, you may not access or use the Site or any services provided on the Site.",
+		"carouselItems": [
+			{
+				"id": 1,
+				"title": "Transformando ideias em soluções digitais",
+				"desc": "Deixe-nos ajudá-lo a dar vida à sua visão com o desenvolvimento de software especializado.",
+				"img": "imgApi.carousel[4]"
+			},
+			{
+				"id": 2,
+				"title": "Dando vida aos seus sonhos tecnológicos",
+				"desc": "Oferecemos soluções personalizadas que atendem às suas necessidades exclusivas e impulsionam seus negócios",
+				"img": "imgApi.carousel[0]"
+			},
+			{
+				"id": 3,
+				"title": "Criando tecnologia de ponta",
+				"desc": "Transforme a maneira como você faz negócios com software personalizado projetado para atender às suas necessidades exclusivas.",
+				"img": "imgApi.carousel[1]"
+			},
+			{
+				"id": 4,
+				"title": "Software inovador, possibilidades ilimitadas",
+				"desc": "Junte-se a nós enquanto lideramos o caminho no desenvolvimento de soluções de software de ponta",
+				"img": "imgApi.carousel[3]"
+			}
+		],
+		"servicesList": [
+			{
+				"title": "Marca",
+				"desc": "Quais são as coisas em que somos bons? filmes, publicidade, fotografia, produção de vídeo ao vivo, estratégia visual de marca e design de comunicação, para citar alguns.",
+				"img": "imgApi.agency[0]",
+				"btnLink": "/branding"
+			},
+			{
+				"title": "Design de interface do usuário/UX",
+				"desc": "Ilumine sua identidade on-line com ativos digitais fundamentais. Construa sua presença com designs e funcionalidades excelentes",
+				"img": "imgApi.agency[1]",
+				"btnLink": "/uxdesign"
+			},
+			{
+				"title": "Marketing Digital e Conteúdo",
+				"desc": "Nosso especialista em marketing digital oferece serviços de marketing digital competitivos e de qualidade que fornecem conversões via SEO, SMO, SEM e reputação online.",
+				"img": "imgApi.agency[2]",
+				"btnLink": "/digitalmarketing"
+			},
+			{
+				"title": "Desenvolvimento de sites",
+				"desc": "Nós fornecemos o melhor desenvolvimento de aplicativos da web ricos em recursos que vão além do essencial e funcionam em vários dispositivos.",
+				"img": "imgApi.agency[3]",
+				"btnLink": "/websitedevelopment"
+			},
+			{
+				"title": "Implantação e manutenção de aplicativos",
+				"desc": "Um processo típico de implantação de aplicativo consiste em várias fases importantes. Uma abordagem intuitiva para concluir essas etapas de maneira sincronizada determina o possível sucesso da implantação.",
+				"img": "imgApi.agency[4]",
+				"btnLink": "/applicationdeployment"
+			},
+			{
+				"title": "Design e Desenvolvimento de Produto",
+				"desc": "Desenvolva produtos orientados a resultados para empreendedores, startups e empresas com uma empresa líder em desenvolvimento de software.",
+				"img": "imgApi.agency[5]",
+				"btnLink": "/productdesign"
+			},
+			{
+				"title": "Desenvolvimento de ERP",
+				"desc": "Toda empresa precisa desenvolver novos modelos de negócios para evitar interrupções, ganhar eficiência para financiar a inovação e transformar sistemas de missão crítica sem riscos para os negócios.",
+				"img": "imgApi.agency[6]",
+				"btnLink": "/erpdevelopment"
+			}
+		],
+		"termsList": [
+			{
+				"terms": "Uso do Site",
+				"terms_details": "O Site e seu conteúdo, incluindo, entre outros, texto, imagens e software, são propriedade da Gitlime e são protegidos por direitos autorais e outras leis de propriedade intelectual. Você não pode usar o Site ou seu conteúdo para qualquer finalidade comercial sem o consentimento expresso por escrito da Gitlime."
+			},
+			{
+				"terms": "Serviços",
+				"terms_details": "A Gitlime fornece serviços de desenvolvimento de sites e aplicativos da web para seus clientes. Ao usar o Site ou quaisquer serviços fornecidos no Site, você concorda em cumprir os termos e condições de qualquer contrato entre você e a Gitlime em relação ao uso de tais serviços."
+			},
+			{
+				"terms": "Isenção de responsabilidade",
+				"terms_details": "O Site e seu conteúdo são fornecidos no estado em que se encontram. A Gitlime não faz representações ou garantias de qualquer tipo, expressas ou implícitas, quanto à operação do Site ou às informações, conteúdo, materiais ou produtos incluídos no Site."
+			},
+			{
+				"terms": "Limitação de responsabilidade",
+				"terms_details": "A Gitlime não será responsável por quaisquer danos de qualquer tipo decorrentes do uso do Site ou quaisquer serviços prestados no Site, incluindo, entre outros, danos diretos, indiretos, incidentais, punitivos e consequentes."
+			},
+			{
+				"terms": "Indenização",
+				"terms_details": "Você concorda em indenizar e isentar a Gitlime, seus executivos, diretores, funcionários, agentes e cessionários de quaisquer reivindicações, danos e despesas, incluindo honorários advocatícios razoáveis, decorrentes do seu uso do Site ou de quaisquer serviços prestados no Site."
+			},
+			{
+				"terms": "Lei Aplicável",
+				"terms_details": "Estes Termos serão regidos e interpretados de acordo com as leis do Estado de [ESTADO], sem dar efeito a quaisquer princípios de conflitos de leis."
+			},
+			{
+				"terms": "Alterações nos Termos",
+				"terms_details": "O Gitlime se reserva o direito de fazer alterações nos Termos a qualquer momento. Seu uso continuado do Site após a publicação de alterações nos Termos indicará sua aceitação dessas alterações"
+			},
+			{
+				"terms": "Contate-nos",
+				"terms_details": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco: Email: hello@gitlime.com"
+			}
+		]
+	}
+}
